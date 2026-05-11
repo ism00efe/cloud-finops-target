@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-05-11T10:00:00Z",
+  "cloud_provider": "aws",
+  "instances": [
+    {
+      "id": "i-0987654321fedcba",
+      "resource_name": "marketing_server",
+      "environment": "Staging",
+      "current_type": "t3.large",
+      "cpu_usage_avg_percent": 1.4,
+      "memory_usage_avg_percent": 12.0,
+      "cost_per_month_usd": 85.20
+    }
+  ]
+}
