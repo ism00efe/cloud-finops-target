@@ -1,5 +1,7 @@
 # Autonomous Cloud FinOps Agent
 
+ **Live Demo:** [FinOps Agent Dashboard'u Canlı İncele](https://cloud-finops-target-2qm5afamxndg5sj66egggc.streamlit.app/)
+
 A human-in-the-loop (HITL) optimization engine that analyzes cloud infrastructure metrics and autonomously modifies Terraform configurations via GitLab APIs to reduce costs.
 
 ## Tech Stack
